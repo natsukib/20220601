@@ -61,6 +61,6 @@ function draw(x, y) {
   }
   context.lineWidth = 5;
   context.lineTo(x, y);
-  context.strokeStyle = "#808080";
+  context.strokeStyle = "#FF0000";
   context.stroke();
 }
